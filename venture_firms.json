@@ -1,0 +1,2103 @@
+[
+  {
+  "name": "Accel partners",
+  "location": [
+    "Palo Alto, California"
+  ],
+  "date_founded": 1983,
+  "partners": [
+    "Andrew Braccia",
+    "Sameer Gandhi",
+    "Ping Li",
+    "Ryan Sweeney",
+    "Rich Wong"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 6000000000
+},
+{
+  "name": "Actua Corporation",
+  "location": [
+    "Wayne, Pennsylvania"
+  ],
+  "date_founded": 1996,
+  "partners": [
+    "Ken Fox",
+    "Walter Buckley"
+  ],
+  "industries": [
+    "Internet"
+  ],
+  "assets": 535000000
+},
+{
+  "name": "Advanced Technology Ventures",
+  "location": [
+    "Waltham, Massachusetts"
+  ],
+  "date_founded": 1979,
+  "partners": [
+    "Dr. Thaddeus (Teddy) F. Walkowicz",
+    "Dr. Ivan Sutherland",
+    "George Kokkinakis",
+    "Dr. Robert Loewy"
+  ],
+  "industries": [
+    "Internet Technology",
+    "Healthcare",
+    "Cleantech"
+  ],
+  "assets": 1800000000
+},
+{
+  "name": "Andreessen Horowitz",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 2009,
+  "partners": [
+    "Marc Andreessen",
+    "Ben Horowitz"
+  ],
+  "industries": [
+    "Internet"
+  ],
+  "assets": 2700000000
+},
+{
+  "name": "Atlas Venture",
+  "location": [
+    "Cambridge, Massachusetts"
+  ],
+  "date_founded": 1984,
+  "partners": [
+    "Jeff Fagnan",
+    "Fred Destin",
+    "Ryan Moore"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Atomico Ventures",
+  "location": [
+    "London, England",
+    "Sao Paulo, Brazil",
+    "Beijing, China",
+    "Tokyo, Japan"
+  ],
+  "date_founded": 2006,
+  "partners": [
+    "Niklas Zennstrom",
+    "Geoffrey Prentice",
+    "Mattias Ljungman",
+    "Hiro Tamura"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 200000000
+},
+{
+  "name": "August Capital",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1995,
+  "partners": [
+    "Eric Carlborg",
+    "Howard Hartenbaum",
+    "David Hornik",
+    "John Johnston",
+    "Tripp Jones",
+    "David Marquardt",
+    "Vivek Mehra",
+    "Jeffrey Bloom"
+  ],
+  "industries": [
+    "Early Stage Venture Capital",
+    "SAAS",
+    "Internet",
+    "Information Technology",
+    "Software"
+  ],
+  "assets": 2500000000
+},
+{
+  "name": "Austin Ventures",
+  "location": [
+    "Austin, Texas"
+  ],
+  "date_founded": 1979,
+  "partners": [
+    "Joe Aragona",
+    "Garett Polanco",
+    "Ken DeAngelis",
+    "Chris Pacitti",
+    "John Thornton",
+    "Thomas Ball",
+    "Mike Dodd",
+    "Vernon Bryant",
+    "Adam Dell",
+    "Clark Jernigan",
+    "Scott Donaldson"
+  ],
+  "industries": [
+    "Early Stage Venture Capital",
+    "New Media",
+    "Internet",
+    "Information Services",
+    "Software",
+    "Texas Middle Market"
+  ],
+  "assets": 3900000000
+},
+{
+  "name": "Avalon Ventures",
+  "location": [
+    "La Jolla, CA",
+    "Cambridge, Massachusetts"
+  ],
+  "date_founded": 1983,
+  "partners": [
+    "Kevin Kinsella",
+    "Richard Levandov",
+    "Jay Lichter",
+    "Braden Bohrmann"
+  ],
+  "industries": [
+    "Information Technology",
+    "Bio Technology"
+  ],
+  "assets": 800000000
+},
+{
+  "name": "Azure Capital partners",
+  "location": [
+    "San Francisco, California"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Paul Ferris",
+    "Mike Kwatinetz",
+    "Cameron Lester",
+    "Paul Weinstein"
+  ],
+  "industries": [
+    "Communications",
+    "Consumer",
+    "Enterprise",
+    "Internet",
+    "Internet Technology Infrastructure"
+  ],
+  "assets": 330000000
+},
+{
+  "name": "Bain Capital Ventures",
+  "location": [
+    "Boston, Massachusetts"
+  ],
+  "date_founded": 1984,
+  "partners": [
+    "Ajay Agarwal",
+    "Jeff Crisan",
+    "Scott Friend",
+    "Jeffrey Glass",
+    "Michael Krupka",
+    "James Nahirny",
+    "J. Benjamin Nye",
+    "Jeffrey Schwartz"
+  ],
+  "industries": [
+    "Infrastructure Software and Services",
+    "Communications",
+    "New Media",
+    "Business Services",
+    "Healthcare"
+  ],
+  "assets": 1400000000
+},
+{
+  "name": "Balderton Capital",
+  "location": [
+    "London, England"
+  ],
+  "date_founded": 2007,
+  "partners": [
+    "Barry Maloney",
+    "Bernard Liautaud",
+    "Mark Evans",
+    "Tim Bunting"
+  ],
+  "industries": [
+    "Enterprise Software",
+    "New Media",
+    "Business Services"
+  ],
+  "assets": 2300000000
+},
+{
+  "name": "Battery Ventures",
+  "location": [
+    "Waltham, Massachusetts",
+    "Menlo Park, California",
+    "Herzliya, Israel"
+  ],
+  "date_founded": 1983,
+  "partners": [
+    "Neeraj Agrawal",
+    "Michael Brown",
+    "Tom Crotty",
+    "Ollie Curme",
+    "Sunil Dhaliwal",
+    "Rick Frisbie",
+    "Morgan Jones",
+    "Ken Lawler",
+    "Roger Lee",
+    "Dave Tabors",
+    "Scott Tobin"
+  ],
+  "industries": [
+    "Internet",
+    "Digital Media",
+    "Financial Services",
+    "Information Services",
+    "Clean Tech",
+    "Software",
+    "Semiconductors & Components",
+    "Infrastructure Technologies",
+    "Communication Services",
+    "Industrial Technologies"
+  ],
+  "assets": 4000000000
+},
+{
+  "name": "Benchmark Capital",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1995,
+  "partners": [
+    "Neel Das"
+  ],
+  "industries": [
+    "Technology",
+    "Financial Services"
+  ],
+  "assets": 2300000000
+},
+{
+  "name": "Bessemer Venture partners",
+  "location": [
+    "Menlo Park, California",
+    "Larchmont, New York",
+    "Boston",
+    "Herzliya",
+    "Mumbai"
+  ],
+  "date_founded": 1911,
+  "partners": [
+    "David Cowan",
+    "Rob Chandra",
+    "Rob Stavis",
+    "Ed Colloton",
+    "Robert Goodman"
+  ],
+  "industries": [
+    "Cleantech",
+    "Cloud Computing",
+    "Data Security",
+    "Financial Services",
+    "Healthcare",
+    "India Opportunities",
+    "Israel Opportunities",
+    "Online Retail"
+  ],
+  "assets": 2500000000
+},
+{
+  "name": "Binary Capital",
+  "location": [
+    "San Francisco, California"
+  ],
+  "date_founded": 2014,
+  "partners": [
+    "Jonathan Teo",
+    "Justin Caldbeck"
+  ],
+  "industries": [
+    "Consumer Technology"
+  ],
+  "assets": 300000000
+},
+{
+  "name": "BGF (Business Growth Fund)",
+  "location": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "date_founded": 2011,
+  "partners": [
+    "Stephen Welton",
+    "Sir Nigel Rudd"
+  ],
+  "industries": [
+    "Business Services",
+    "Professional Services",
+    "Construction & Infrastructure",
+    "Energy",
+    "Healthcare",
+    "Education",
+    "Hospitality & Leisure",
+    "Manufacturing & Engineering",
+    "Retail & Consumer",
+    "Tech",
+    "Media & Digital"
+  ],
+  "assets": 2500000000
+},
+{
+  "name": "CapitalG",
+  "location": "San Francisco",
+  "date_founded": 2013,
+  "partners": [
+    "David Lawee",
+    "Laela Sturdy",
+    "Gene Frantz",
+    "Gretchen Howard"
+  ],
+  "industries": [
+    "Machine learning",
+    "transportation",
+    "Technology"
+  ],
+  "assets": null
+},
+{
+  "name": "Charles River Ventures",
+  "location": [
+    "Menlo Park, California",
+    "Boston, Massachusset"
+  ],
+  "date_founded": 1970,
+  "partners": [
+    "Bill Tai",
+    "George Zachary"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 2100000000
+},
+{
+  "name": "Clearstone Venture partners",
+  "location": [
+    "Santa Monica, California",
+    "Menlo Park, California",
+    "Mumbai"
+  ],
+  "date_founded": 1998,
+  "partners": [
+    "Bill Elkus",
+    "Jim Armstrong",
+    "Erik Lassila",
+    "William Quigley",
+    "Sumant Mandal"
+  ],
+  "industries": [
+    "Internet",
+    "consumer",
+    "communications",
+    "software"
+  ],
+  "assets": 650000000
+},
+{
+  "name": "Columbus Nova Technology partners",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 2012,
+  "partners": [
+    "Mohsen Moazami",
+    "Andrew Intrater",
+    "Jason Epstein",
+    "Bob Ghoorah",
+    "Yaron Eitan",
+    "Edmundo Gonzalez"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": null
+},
+{
+  "name": "Crosslink Capital",
+  "location": [
+    "San Francisco"
+  ],
+  "date_founded": 1999,
+  "partners": [
+    "Sy Kaufman",
+    "Michael Stark",
+    "Tom Bliska",
+    "Jim Feuille",
+    "Dan Myers"
+  ],
+  "industries": [
+    "Internet & Digital Media",
+    "Computing & Semiconductors",
+    "Software & Business Services",
+    "Energy Technologies",
+    "Communication Services & Infrastructure"
+  ],
+  "assets": 1800000000
+},
+{
+  "name": "CrunchFund",
+  "location": [
+    "San Francisco, California"
+  ],
+  "date_founded": 2011,
+  "partners": [
+    "Michael Arrington",
+    "Patrick Gallagher",
+    "MG Siegler"
+  ],
+  "industries": [
+    "Mobile",
+    "Software",
+    "Bitcoin",
+    "Information Security",
+    "Enterprise Software",
+    "SaaS"
+  ],
+  "assets": 59000000
+},
+{
+  "name": "DAG Ventures",
+  "location": [
+    "Palo Alto, California"
+  ],
+  "date_founded": 2001,
+  "partners": [
+    "John M. Duff Jr.",
+    "R. Thomas Goodrich",
+    "Young J. Chung",
+    "John J. Cadeddu"
+  ],
+  "industries": [
+    "Energy",
+    "Information Technology",
+    "Life Sciences"
+  ],
+  "assets": 500000000
+},
+{
+  "name": "Digital Sky Technologies",
+  "location": [
+    "Moscow"
+  ],
+  "date_founded": 2005,
+  "partners": [
+    "Yuri Milner"
+  ],
+  "industries": [
+    "Internet"
+  ],
+  "assets": null
+},
+{
+  "name": "Draper Fisher Jurvetson",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1985,
+  "partners": [
+    "Timothy C. Draper",
+    "John H. N. Fisher",
+    "Steve Jurvetson"
+  ],
+  "industries": [
+    "Technology",
+    "Technology Services"
+  ],
+  "assets": 5000000000
+},
+{
+  "name": "Elevation partners",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 2004,
+  "partners": [
+    "Roger Mcnamee",
+    "Marc Bodnick",
+    "Fred Anderson",
+    "John Riccitiello",
+    "Bono"
+  ],
+  "industries": [
+    "Intellectual property",
+    "Media",
+    "Entertainment"
+  ],
+  "assets": 1900000000
+},
+{
+  "name": "EQT Ventures",
+  "location": [
+    "Stockholm",
+    "San Francisco",
+    "Amsterdam",
+    "London",
+    "Luxembourg"
+  ],
+  "date_founded": 2015,
+  "partners": [
+    "Hjalmer Windbladh",
+    "Kees Koolen",
+    "Lars Jörnow"
+  ],
+  "industries": [
+    "Information Technology",
+    "Internet",
+    "Artificial Intelligence",
+    "Consumer",
+    "Enterprise"
+  ],
+  "assets": 600000000
+},
+{
+  "name": "ff Venture Capital",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 1999,
+  "partners": [
+    "John Frankel",
+    "Alex Katz",
+    "Ryan Armbrust",
+    "Adam Plotkin",
+    "Michael Faber"
+  ],
+  "industries": [
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Drones",
+    "Robotics",
+    "Fintech",
+    "Insurtech",
+    "EdTech",
+    "Consumer Mobile",
+    "Marketplaces"
+  ],
+  "assets": 150000000
+},
+{
+  "name": "Fidelity Ventures",
+  "location": [
+    "Boston"
+  ],
+  "date_founded": 1970,
+  "partners": [
+    "Rob Ketterson"
+  ],
+  "industries": [
+    "Information Technology"
+  ],
+  "assets": 1500000000
+},
+{
+  "name": "FirstMark Capital",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 2008,
+  "partners": [
+    "Rick Heitzmann",
+    "Amish Jani",
+    "Lawrence Lenihan",
+    "Matt Turck"
+  ],
+  "industries": [
+    "Technology",
+    "Internet"
+  ],
+  "assets": null
+},
+{
+  "name": "First Round Capital",
+  "location": [
+    "Philadelphia"
+  ],
+  "date_founded": 2004,
+  "partners": [
+    "Josh Kopelman",
+    "Chris Fralic",
+    "Rob Hayes",
+    "Howard L. Morgan"
+  ],
+  "industries": [
+    "Information Technology",
+    "Internet"
+  ],
+  "assets": null
+},
+{
+  "name": "Flybridge Capital partners",
+  "location": [
+    "Boston"
+  ],
+  "date_founded": 2001,
+  "partners": [
+    "David Aronoff",
+    "Jeff Bussgang",
+    "Chip Hazard",
+    "Jesse Middleton"
+  ],
+  "industries": [
+    "Consumer",
+    "Healthcare",
+    "Energy",
+    "Information Technology"
+  ],
+  "assets": 625000000
+},
+{
+  "name": "Foundation Capital",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1995,
+  "partners": [
+    "Bill Elmore",
+    "Kathryn Gould",
+    "Jim Anderson"
+  ],
+  "industries": [
+    "Information Technology",
+    "Consumer Product",
+    "Clean Technology"
+  ],
+  "assets": 2400000000
+},
+{
+  "name": "The Founders Fund",
+  "location": [
+    "San Francisco"
+  ],
+  "date_founded": 2005,
+  "partners": [
+    "Peter Thiel",
+    "Ken Howery"
+  ],
+  "industries": [
+    "Information Technology",
+    "Emerging Technologies",
+    "Space Exploration"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Galen partners",
+  "location": [
+    "Stamford, Connecticut"
+  ],
+  "date_founded": 1990,
+  "partners": [
+    "David Jahns",
+    "Zubeen Shroff",
+    "Bruce F. Wesson",
+    "John Wilkerson"
+  ],
+  "industries": [
+    "Healthcare Technology",
+    "Medical Devices",
+    "Specialty Pharmaceuticals"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "GE Ventures",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 2013,
+  "partners": "",
+  "industries": [
+    "Healthcare",
+    "energy",
+    "software",
+    "advanced manufacturing"
+  ],
+  "assets": null
+},
+{
+  "name": "General Catalyst",
+  "location": [
+    "Cambridge, Massachusetts",
+    "Palo Alto California"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Larry Bohn",
+    "Joel Cutler",
+    "David Fialkow",
+    "Bill Fitzgerald",
+    "Steve Herrod",
+    "David Orfao",
+    "Neil Sequeira",
+    "Brian Shortsleeve",
+    "Hemant Taneja",
+    "Jonathan Teo"
+  ],
+  "industries": [
+    "Information technology",
+    "clean energy",
+    "software",
+    "new media"
+  ],
+  "assets": 2000000000
+},
+{
+  "name": "Genesis partners",
+  "location": [
+    "Herzliya"
+  ],
+  "date_founded": 1996,
+  "partners": [
+    "Eddy Shalev",
+    "Eyal Kishon"
+  ],
+  "industries": [
+    "Finance",
+    "Internet",
+    "mobile",
+    "technology"
+  ],
+  "assets": 600000000
+},
+{
+  "name": "GGV Capital",
+  "location": [
+    "Menlo Park, California",
+    "Shanghai"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Jixun Foo",
+    "Zhuo Fumin",
+    "Jenny Lee",
+    "Hany Nada",
+    "Thomas Ng",
+    "Jeff Richards",
+    "Glenn Solomon"
+  ],
+  "industries": [
+    "Internet",
+    "digital media",
+    "cloud",
+    "SaaS",
+    "mobile"
+  ],
+  "assets": 1600000000
+},
+{
+  "name": "Granite Ventures",
+  "location": [
+    "San Francisco"
+  ],
+  "date_founded": 1992,
+  "partners": [
+    "Tom Furlong",
+    "Chris Hollenbeck",
+    "Sam Kingsland",
+    "Chris McKay",
+    "Standish O'Grady",
+    "Eric Zimits",
+    "Jackie Berterretche",
+    "Savinay Berry",
+    "Brian Panoff",
+    "Len Rand"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Greylock partners",
+  "location": [
+    "Cambridge, Massachusetts",
+    "San Mateo, California",
+    "Israel",
+    "India"
+  ],
+  "date_founded": 1965,
+  "partners": [
+    "Aneel Bhusri",
+    "Asheem Chandna",
+    "Reid Hoffman",
+    "James Slavet",
+    "David Sze",
+    "Bill Helman",
+    "Bill Kaiser",
+    "Arvin Babu"
+  ],
+  "industries": [
+    "Consumer Internet",
+    "Enterprise Internet Technology",
+    "clean tech"
+  ],
+  "assets": 2000000000
+},
+{
+  "name": "GV",
+  "location": [
+    "Mountain View, California"
+  ],
+  "date_founded": 2009,
+  "partners": [
+    "Bill Maris",
+    "David Crane",
+    "Joe Kraus",
+    "Rich Miner"
+  ],
+  "industries": [
+    "Internet",
+    "software",
+    "hardware",
+    "clean-tech",
+    "bio-tech",
+    "health care"
+  ],
+  "assets": 1600000000
+},
+{
+  "name": "Harris & Harris Group",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 1981,
+  "partners": [
+    "Manuel A. Henriquez",
+    "Scott Harvey"
+  ],
+  "industries": [
+    "Nanotechnology",
+    "Microsystems"
+  ],
+  "assets": 150000000
+},
+{
+  "name": "HealthCap",
+  "location": [
+    "Stockholm",
+    "Oslo",
+    "Lausanne"
+  ],
+  "date_founded": 1996,
+  "partners": [
+    "Björn Odlander",
+    "Peder Fredrikson",
+    "Johan Christenson, M.D., Ph.D.",
+    "Staffan Lindstrand",
+    "Per Samuelsson",
+    "Jacob Gunterberg",
+    "Anki Forsberg",
+    "Eugen Steiner, M.D., Ph.D.",
+    "Carl-Johan Dalsgaard, M.D, Ph.D.",
+    "Mårten Steen, M.D., Ph.D.",
+    "Jonas Hansson"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Pharmaceuticals",
+    "Medical Technology",
+    "Biotechnology",
+    "BioMedicine"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Highland Capital partners",
+  "location": [
+    "Boston",
+    "Menlo Park, California",
+    "Geneva, Switzerland",
+    "Shanghai,China"
+  ],
+  "date_founded": 1988,
+  "partners": [
+    "Sean Dalton",
+    "Bob Davis",
+    "Bob Higgins",
+    "Paul Maeder",
+    "Dan Nova"
+  ],
+  "industries": [
+    "Consumer",
+    "Healthcare",
+    "Technology",
+    "Internet",
+    "Digital Media"
+  ],
+  "assets": 3000000000
+},
+{
+  "name": "Horizons Ventures",
+  "location": [
+    "Hong Kong"
+  ],
+  "date_founded": 2009,
+  "partners": [
+    "Li Ka-shing",
+    "Solina Chau",
+    "Jason Wong"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 150000000
+},
+{
+  "name": "IDG Ventures",
+  "location": [
+    "San Francisco",
+    "Shanghai",
+    "Bangalore"
+  ],
+  "date_founded": 1995,
+  "partners": [
+    "Pat Kenealy",
+    "Alex Rosen",
+    "Phil Sanderson",
+    "Qi Feng",
+    "Sudhir Sethi"
+  ],
+  "industries": [
+    "Information Technology",
+    "Healthcare"
+  ],
+  "assets": 6800000000
+},
+{
+  "name": "In-Q-Tel",
+  "location": [
+    "Arlington, Virginia"
+  ],
+  "date_founded": 1999,
+  "partners": [
+    "Gilman Louie",
+    "Christopher A. R. Darby",
+    "Bruce Adams",
+    "Michael M. Crow",
+    "Paul G. Kaminiski"
+  ],
+  "industries": [
+    "Software",
+    "Infrastructure",
+    "Materials Sciences"
+  ],
+  "assets": 200000000
+},
+{
+  "name": "Index Ventures",
+  "location": [
+    "London",
+    "Geneva",
+    "Jersey"
+  ],
+  "date_founded": 1996,
+  "partners": [
+    "Ben Holmes",
+    "Bernard Dalle",
+    "Danny Rimer",
+    "David Rimer",
+    "Dom Vidal",
+    "Francesco De Rubertis",
+    "Giuseppe Zocco",
+    "Kevin Johnson",
+    "Michele Ollier",
+    "Neil Rimer",
+    "Saul Klein"
+  ],
+  "industries": [
+    "Consumer Internet",
+    "Communications",
+    "Media",
+    "Enterprise Internet Technology",
+    "Clean Tech",
+    "Biotech"
+  ],
+  "assets": 1500000000
+},
+{
+  "name": "Initialized Capital",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 2011,
+  "partners": [
+    "Garry Tan",
+    "Harjeet Taggar"
+  ],
+  "industries": [
+    "Mobile",
+    "Software",
+    "Design"
+  ],
+  "assets": 4615000000
+},
+{
+  "name": "Innovacom",
+  "location": [
+    "Paris",
+    "Marseilles"
+  ],
+  "date_founded": 1988,
+  "partners": [
+    "Jerome Faul",
+    "Vincent Deltrieu",
+    "Frederic Humbert"
+  ],
+  "industries": [
+    "Digital transformation"
+  ],
+  "assets": 150000000
+},
+{
+  "name": "Insight Venture partners",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 1995,
+  "partners": [
+    "Larry Handen",
+    "Hilary Gosher",
+    "Jeff Horing",
+    "Jeff Lieberman",
+    "Jerry Murdock",
+    "Nikitas Koutoupes",
+    "Deven Parekh",
+    "Peter Sobiloff",
+    "Mike Triplett",
+    "Richard Wells Ryan Hinkle"
+  ],
+  "industries": [
+    "Software",
+    "Internet"
+  ],
+  "assets": 7600000000
+},
+{
+  "name": "Intel Capital",
+  "location": [
+    "Santa Clara, California"
+  ],
+  "date_founded": 1991,
+  "partners": "",
+  "industries": [
+    "Cleantech",
+    "Computing",
+    "Consumer Internet",
+    "Digital Home",
+    "Digital Media",
+    "Manufacturing",
+    "Mobility",
+    "Software and Services"
+  ],
+  "assets": 9800000000
+},
+{
+  "name": "Intellectual Ventures",
+  "location": [
+    "Bellevue, Washington"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Nathan Myhrvold",
+    "Edward Jung"
+  ],
+  "industries": [
+    "Intellectual Property",
+    "Patents"
+  ],
+  "assets": 5000000000
+},
+{
+  "name": "Institutional Venture partners",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1980,
+  "partners": [
+    "Reid Dennis",
+    "Todd Chaffee",
+    "Norm Fogelsong"
+  ],
+  "industries": [
+    "Internet",
+    "Digital Media",
+    "Enterprise Internet Technology",
+    "Mobile & Communications"
+  ],
+  "assets": 2900000000
+},
+{
+  "name": "Iona Capital",
+  "location": [
+    "London"
+  ],
+  "date_founded": 2011,
+  "partners": [
+    "Nick Ross",
+    "Mike Dunn"
+  ],
+  "industries": [
+    "Renewable Energy",
+    "BioEnergy"
+  ],
+  "assets": null
+},
+{
+  "name": "Israel Cleantech Ventures",
+  "location": [
+    "Ramat HaSharon, Israel"
+  ],
+  "date_founded": 2006,
+  "partners": [
+    "Glen Schwaber",
+    "Jack Levy",
+    "Meir Ukeles"
+  ],
+  "industries": [
+    "Clean Technology"
+  ],
+  "assets": 75000000
+},
+{
+  "name": "Jerusalem Venture partners",
+  "location": [
+    "Jerusalem",
+    "New York City",
+    "Los Angeles",
+    "Paris"
+  ],
+  "date_founded": 1993,
+  "partners": [
+    "Erel Margalit",
+    "Kobi Rozengarten",
+    "Gadi Tirosh"
+  ],
+  "industries": [
+    "Media",
+    "Internet",
+    "Mobile",
+    "Communications",
+    "Enterprise software",
+    "Semiconductors"
+  ],
+  "assets": 900000000
+},
+{
+  "name": "Jubilee Capital Management",
+  "location": [
+    "Singapore",
+    "Beijing",
+    "United States",
+    "Israel"
+  ],
+  "date_founded": 2015,
+  "partners": [
+    "Stanley Zhang Xiangdong",
+    "Gan Fong Jek",
+    "George Gong"
+  ],
+  "industries": [
+    "Financial Services",
+    "Travel",
+    "Urban",
+    "Lifestyle"
+  ],
+  "assets": 100000000
+},
+{
+  "name": "JMI Equity",
+  "location": [
+    "Baltimore"
+  ],
+  "date_founded": 1992,
+  "partners": [
+    "Harry Gruner",
+    "Charlie Noell",
+    "Paul Barber",
+    "Brad Woloson",
+    "Peter Arrowsmith",
+    "Bob Smith",
+    "Chuck Dieveney"
+  ],
+  "industries": [
+    "Software",
+    "Internet",
+    "Business Services",
+    "Healthcare",
+    "Internet Technology"
+  ],
+  "assets": 2100000000
+},
+{
+  "name": "Kapor Capital",
+  "location": [
+    "California"
+  ],
+  "date_founded": 2006,
+  "partners": [
+    "Mitch Kapor",
+    "Benjamin Jealous",
+    "Ellen Pao"
+  ],
+  "industries": [
+    "Seed Stage Tech Startup"
+  ],
+  "assets": 100000000
+},
+{
+  "name": "Khosla Ventures",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 2004,
+  "partners": [
+    "Vinod Khosla"
+  ],
+  "industries": [
+    "Alternative energy",
+    "internet",
+    "computing",
+    "mobile",
+    "silicon technology"
+  ],
+  "assets": 1300000000
+},
+{
+  "name": "Kleiner Perkins",
+  "location": [
+    "Menlo Park, California",
+    "Shanghai",
+    "Beijing"
+  ],
+  "date_founded": 1972,
+  "partners": [
+    "Brook Byers",
+    "Mary Meeker",
+    "John Doerr"
+  ],
+  "industries": [
+    "Alternative energy",
+    "technology",
+    "Life Sciences"
+  ],
+  "assets": 1500000000
+},
+{
+  "name": "Lightbank",
+  "location": [
+    "Chicago"
+  ],
+  "date_founded": 2010,
+  "partners": [
+    "Eric Lefkofsky"
+  ],
+  "industries": [
+    "Disruptive technology"
+  ],
+  "assets": null
+},
+{
+  "name": "Lighter Capital",
+  "location": [
+    "Seattle, Washington"
+  ],
+  "date_founded": 2010,
+  "partners": [
+    "Community Investment Management (CIM)"
+  ],
+  "industries": [
+    "Tech Startups",
+    "SaaS"
+  ],
+  "assets": 100000000
+},
+{
+  "name": "Lightspeed Venture partners",
+  "location": [
+    "Menlo Park, California",
+    "New Delhi",
+    "Beijing",
+    "Shanghai",
+    "Herzliya Pituah"
+  ],
+  "date_founded": 1971,
+  "partners": [
+    "Justin Caldbeck",
+    "Ron Cao",
+    "Yoni Cheifetz",
+    "Barry Eggers",
+    "Dev Khare",
+    "David Gussarsky",
+    "Jeremy Liew",
+    "Ravi Mhatre",
+    "James Mi",
+    "Peter Nieh",
+    "Eric O'Brien",
+    "Chris Schaepe",
+    "Jake Seid",
+    "Bejul Somaia",
+    "John Vrionis"
+  ],
+  "industries": [
+    "computing infrastructure",
+    "Cleantech"
+  ],
+  "assets": 2000000000
+},
+{
+  "name": "Lux Capital",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Josh Wolfe",
+    "Peter Hébert",
+    "Robert Paull"
+  ],
+  "industries": [
+    "Emerging technologies",
+    "Physical Sciences",
+    "Life Sciences"
+  ],
+  "assets": 350000000
+},
+{
+  "name": "Matrix partners",
+  "location": [
+    "Boston",
+    "New York City",
+    "Palo Alto, California",
+    "Herzliya",
+    "Mumbai",
+    "Beijing",
+    "Shanghai"
+  ],
+  "date_founded": 1977,
+  "partners": [
+    "Tim Barrows",
+    "Nick Beim",
+    "Phyllis Doherty",
+    "Josh Hannah",
+    "Stan Reiss",
+    "Paul Ferri",
+    "Bob Lisbonne",
+    "Antonio Rodriguez",
+    "Hardi Meybaum",
+    "Shirish Sathaye",
+    "David Skok",
+    "Rob Soni",
+    "Dana Stalder",
+    "Andy Verhalen"
+  ],
+  "industries": [
+    "Software",
+    "communications",
+    "hardware",
+    "Internet",
+    "consumer",
+    "semiconductors",
+    "clean tech",
+    "wireless"
+  ],
+  "assets": 600000000
+},
+{
+  "name": "Maveron",
+  "location": [
+    "Seattle",
+    "San Francisco"
+  ],
+  "date_founded": 1998,
+  "partners": [
+    "Dan Levitan",
+    "Jason Stoffer",
+    "David Wu",
+    "Anarghya Vardhana",
+    "Cat Lee",
+    "Pete McCormick",
+    "Elise Hebb"
+  ],
+  "industries": [
+    "Consumer",
+    "Internet",
+    "education",
+    "wellness"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Mayfield Fund",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1969,
+  "partners": [
+    "James Beck",
+    "Navin Chaddha",
+    "Tim Chang",
+    "Yogen Dalal",
+    "Robin Vasan"
+  ],
+  "industries": [
+    "Consumer",
+    "mobile applications",
+    "infrastructure",
+    "Energytech",
+    "semiconductors"
+  ],
+  "assets": 2400000000
+},
+{
+  "name": "Menlo Ventures",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1976,
+  "partners": [
+    "H. DuBose Montgomery",
+    "Doug Carlisle",
+    "Sonja Hoel Perkins"
+  ],
+  "industries": [
+    "Information technology"
+  ],
+  "assets": 4000000000
+},
+{
+  "name": "Meritech Capital partners",
+  "location": [
+    "Palo Alto, California"
+  ],
+  "date_founded": 1999,
+  "partners": [
+    "Rob Ward",
+    "Paul Madera",
+    "George Bischof",
+    "Craig Sherman",
+    "Mike Gordon",
+    "Max Motschwiller"
+  ],
+  "industries": [
+    "Communications",
+    "Software",
+    "Enterprise Infrastructure",
+    "Semiconductors",
+    "Consumer Internet",
+    "Medical"
+  ],
+  "assets": 2600000000
+},
+{
+  "name": "Morgenthaler Ventures",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1968,
+  "partners": [
+    "Robert Bellas",
+    "Jim Broderick",
+    "Ralph Christoffersen",
+    "Gary Little",
+    "Rebecca Lynn",
+    "Gary Morgenthaler",
+    "Bob Pavey",
+    "Hank Plain"
+  ],
+  "industries": [
+    "Technology",
+    "Life Science"
+  ],
+  "assets": 3000000000
+},
+{
+  "name": "New Enterprise Associates",
+  "location": [
+    "Menlo Park, California",
+    "Chevy Chase, MD",
+    "New York, NY",
+    "Beijing, China",
+    "Shanghai, China",
+    "Bangalore, India",
+    "Mumbai, India",
+    "Boston, MA"
+  ],
+  "date_founded": 1978,
+  "partners": [
+    "Peter Barris",
+    "Scott Sandell",
+    "Forest Baskett",
+    "Tony Florence",
+    "Patrick Kerins"
+  ],
+  "industries": [
+    "Information Technology",
+    "Healthcare",
+    "Energy Technology"
+  ],
+  "assets": 17000000000
+},
+{
+  "name": "Norwest Venture partners",
+  "location": [
+    "Palo Alto, California",
+    "San Francisco, California",
+    "Herzliya",
+    "Mumbai",
+    "Bangalore"
+  ],
+  "date_founded": 1961,
+  "partners": [
+    "Promod Haque",
+    "Jeffrey Crowe",
+    "Jon Kossow"
+  ],
+  "industries": [
+    "Consumer",
+    "Web",
+    "cloud",
+    "information technology",
+    "infrastructure",
+    "SaaS",
+    "healthcare"
+  ],
+  "assets": 6000000000
+},
+{
+  "name": "Oak Investment partners",
+  "location": [
+    "Westport, Connecticut",
+    "Palo Alto, California",
+    "Minneapolis"
+  ],
+  "date_founded": 1978,
+  "partners": [
+    "Bandel Carano",
+    "Ed Glassmeyer",
+    "Fred Harman",
+    "Ann Lamont"
+  ],
+  "industries": [
+    "Information Technology",
+    "Healthcare"
+  ],
+  "assets": 8400000000
+},
+{
+  "name": "OpenOcean",
+  "location": [
+    "Helsinki",
+    "London",
+    "Amsterdam"
+  ],
+  "date_founded": 2008,
+  "partners": [
+    "Patrik Backmann",
+    "Tom Henriksson",
+    "Ralf Wahlsten",
+    "Michael Monty Widenius"
+  ],
+  "industries": [
+    "Software companies"
+  ],
+  "assets": 100000000
+},
+{
+  "name": "Polaris partners",
+  "location": [
+    "Boston",
+    "San Francisco",
+    "Dublin"
+  ],
+  "date_founded": 1996,
+  "partners": [
+    "Dave Barrett",
+    "Brian Chee",
+    "Alan Crane",
+    "Peter Flint",
+    "Jon Flint",
+    "John Gannon",
+    "Terry McGuire",
+    "Amir Nashat",
+    "Noel Ruane",
+    "Alan Spoon",
+    "Jason Trevisan",
+    "Bryce Youngren"
+  ],
+  "industries": [
+    "Technology",
+    "Healthcare",
+    "Consumer"
+  ],
+  "assets": 3500000000
+},
+{
+  "name": "Radius Ventures",
+  "location": [
+    "New York City"
+  ],
+  "date_founded": 1997,
+  "partners": [
+    "Jordan S. Davis",
+    "Daniel C. Lubin"
+  ],
+  "industries": [
+    "Healthcare",
+    "Life Sciences"
+  ],
+  "assets": 200000000
+},
+{
+  "name": "Redpoint Ventures",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1999,
+  "partners": [
+    "Allen Beasley",
+    "Jeff Brody",
+    "Satish Dharmaraj",
+    "Tom Dyal",
+    "Tim Haley",
+    "Brad Jones",
+    "Nety Krishna",
+    "Chris Moore",
+    "Lars Pedersen",
+    "Scott Raney",
+    "John Walecka",
+    "Geoff Yang",
+    "Marjorie Yang",
+    "David Yuan",
+    "Vivian Yuan"
+  ],
+  "industries": [
+    "information technology"
+  ],
+  "assets": 2000000000
+},
+{
+  "name": "Revolution LLC",
+  "location": [
+    "Washington D.C."
+  ],
+  "date_founded": 2005,
+  "partners": [
+    "Steve Case",
+    "Donn Davis",
+    "Tige Savage"
+  ],
+  "industries": [
+    "Healthcare",
+    "living",
+    "digital",
+    "resorts",
+    "financial services sectors"
+  ],
+  "assets": 450000000
+},
+{
+  "name": "Rho Ventures",
+  "location": [
+    "New York City",
+    "Montreal"
+  ],
+  "date_founded": 1981,
+  "partners": [
+    "Habib Kairouz",
+    "Mark Leschly",
+    "Joshua Ruch"
+  ],
+  "industries": [
+    "New Media",
+    "Information Technology",
+    "Communications",
+    "Cleantech",
+    "Healthcare"
+  ],
+  "assets": 2500000000
+},
+{
+  "name": "Rothenberg Ventures",
+  "location": [
+    "San Francisco"
+  ],
+  "date_founded": 2012,
+  "partners": [
+    "Mike Rothenberg"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 30000000
+},
+{
+  "name": "Scale Venture partners",
+  "location": [
+    "Foster City, California"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Kate Mitchell",
+    "Rory O'Driscoll",
+    "Sharon Wienbar",
+    "Lou Bock",
+    "Mark Brooks",
+    "Rob Herb",
+    "Rob Theis",
+    "Stacey Bishop",
+    "Andy Vitus"
+  ],
+  "industries": [
+    "Cloud",
+    "Internet",
+    "Mobile",
+    "SaaS"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Sequoia Capital",
+  "location": [
+    "Menlo Park, California",
+    "Beijing",
+    "Shanghai",
+    "Hong Kong"
+  ],
+  "date_founded": 1972,
+  "partners": [
+    "Kui Zhou",
+    "Don Valentine",
+    "Neil Shen",
+    "Michael Moritz"
+  ],
+  "industries": [
+    "Components",
+    "systems",
+    "software and services"
+  ],
+  "assets": 4000000000
+},
+{
+  "name": "Sevin Rosen Funds",
+  "location": [
+    "Dallas",
+    "Palo Alto, California",
+    "Austin, Texas"
+  ],
+  "date_founded": "1981",
+  "partners": [
+    "Jon Bayless",
+    "Steve Domenik",
+    "Steve Dow",
+    "Dave McLean",
+    "Al Schuele",
+    "Charles Phipps",
+    "John Jaggers",
+    "Jackie Kimzey",
+    "John Oxaal",
+    "Nick Sturiale"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": 1600000000
+},
+{
+  "name": "Social Capital",
+  "location": [
+    "Palo Alto, California"
+  ],
+  "date_founded": 2011,
+  "partners": [
+    "Chamath Palihapitiya",
+    "Mamoon Hamid",
+    "Ted Maidenberg"
+  ],
+  "industries": [
+    "Healthcare",
+    "financial services",
+    "education"
+  ],
+  "assets": 1200000000
+},
+{
+  "name": "Sofinnova Ventures",
+  "location": [
+    "Menlo Park, California",
+    "San Diego"
+  ],
+  "date_founded": 1974,
+  "partners": [
+    "Mike Powell PhD",
+    "Jim Healy MD/PhD",
+    "Garheng Kong MD/PhD",
+    "Srini Akkaraju MD/PhD",
+    "Anand Mehra MD",
+    "Eric Buatois",
+    "Brian Wilcove"
+  ],
+  "industries": [
+    "Life Sciences",
+    "Technology"
+  ],
+  "assets": 1400000000
+},
+{
+  "name": "SoftTech VC",
+  "location": [
+    "Palo Alto, California"
+  ],
+  "date_founded": 2004,
+  "partners": [
+    "Jeff Clavier"
+  ],
+  "industries": [
+    "Commerce",
+    "Social Media",
+    "Mobile Services & Infrastructure",
+    "Cloud Services & Infrastructure",
+    "Search & Monetization",
+    "Gaming"
+  ],
+  "assets": 70000000
+},
+{
+  "name": "Spark Capital",
+  "location": [
+    "Boston, Massachusset"
+  ],
+  "date_founded": 2005,
+  "partners": [
+    "Todd Dagres",
+    "Santo Politi",
+    "Bijan Sabet",
+    "Alex Finkelstein",
+    "Mo Koyfman",
+    "Paul Conway",
+    "Andrew Parker",
+    "Megan Quinn"
+  ],
+  "industries": [
+    "Internet Advertising & Monetization",
+    "Commerce & Services",
+    "Cloud & Infrastructure"
+  ],
+  "assets": 2000000000
+},
+{
+  "name": "Tenaya Capital",
+  "location": "Menlo Park, California; Boston",
+  "date_founded": 2009,
+  "partners": [
+    "Tom Banahan",
+    "Ben Boyer",
+    "Stewart Gollmer",
+    "Brian Melton",
+    "Brian Paul"
+  ],
+  "industries": [
+    "Software",
+    "Semiconductors",
+    "Consumer Internet",
+    "Communications"
+  ],
+  "assets": 1000000000
+},
+{
+  "name": "Third Rock Ventures",
+  "location": [
+    "Boston"
+  ],
+  "date_founded": 2006,
+  "partners": [
+    "Kevin Starr",
+    "Mark Levin"
+  ],
+  "industries": [
+    "Healthcare",
+    "Biotechnology"
+  ],
+  "assets": 1300000000
+},
+{
+  "name": "Toba Capital",
+  "location": [
+    "Newport Beach, California"
+  ],
+  "date_founded": 2012,
+  "partners": "Vinnie Smith",
+  "industries": [
+    "Software",
+    "technology services"
+  ],
+  "assets": "$35,000,000"
+},
+{
+  "name": "Union Square Ventures",
+  "location": [
+    "New York City, NY"
+  ],
+  "date_founded": 2005,
+  "partners": [
+    "Fred Wilson",
+    "Brad Burnham",
+    "Albert Wenger",
+    "John Buttrick",
+    "Andy Weissman"
+  ],
+  "industries": [
+    "Technology"
+  ],
+  "assets": ""
+},
+{
+  "name": "U.S. Venture partners",
+  "location": [
+    "Menlo Park, California"
+  ],
+  "date_founded": 1981,
+  "partners": [
+    "Irwin Federman",
+    "Winston Fu",
+    "Steve Krausz",
+    "Paul Matteucci",
+    "Jonathan Root",
+    "Casey Tansey",
+    "Mamoon Hamid",
+    "Alan Kaganov",
+    "Larry Lasky",
+    "Rick Lewis",
+    "Ted Maidenberg",
+    "Chris Rust",
+    "Geoffrey Baehr",
+    "Jacques Benkoski",
+    "John Hadl",
+    "David Liddle",
+    "Phil Schlein",
+    "Phil Young"
+  ],
+  "industries": [
+    "Energy",
+    "semiconductors",
+    "Web services",
+    "storage",
+    "wireless communication",
+    "sustainable agriculture",
+    "biomedical devices",
+    "drugs"
+  ],
+  "assets": 2700000000
+},
+{
+  "name": "VantagePoint Venture partners",
+  "location": [
+    "San Bruno, California"
+  ],
+  "date_founded": 1996,
+  "partners": [
+    "Alan E. Salzman",
+    "Jim Marver"
+  ],
+  "industries": [
+    "Cleantech",
+    "information technology",
+    "healthcare"
+  ],
+  "assets": 4500000000
+},
+{
+  "name": "Venrock",
+  "location": [
+    "Palo Alto, California"
+  ],
+  "date_founded": 1969,
+  "partners": [
+    "Brian Ascher",
+    "Fred Aslan",
+    "Mike Brooks",
+    "Marissa Campise",
+    "Tony Evnin",
+    "Steve Goldberg",
+    "Steve Goldby",
+    "Anders Hove",
+    "Bob Kocher",
+    "Bong Koh",
+    "Spencer Maughan",
+    "Matthew M.Nordan",
+    "David Pakman",
+    "Bruce Pasternack",
+    "William Rastetter",
+    "Bryan Roberts",
+    "Gur Roshwalb",
+    "Ray Rothrock",
+    "Matthew Trevithick",
+    "Mike Tyrrell"
+  ],
+  "industries": [
+    "Information technology",
+    "healthcare",
+    "energy"
+  ],
+  "assets": 2600000000
+},
+{
+  "name": "Viola Ventures",
+  "location": [
+    "Herzliya, Israel"
+  ],
+  "date_founded": 2000,
+  "partners": [
+    "Shlomo Dovrat",
+    "Avi Zeevi",
+    "Rina Shainski",
+    "Ori Bendori",
+    "Ronen Nir"
+  ],
+  "industries": [
+    "Software",
+    "Internet",
+    "Networking and Wireless technologies"
+  ],
+  "assets": 620000000
+},
+{
+  "name": "Wellington partners Venture Capital",
+  "location": [
+    "Munich, Germany"
+  ],
+  "date_founded": 1991,
+  "partners": [
+    "Rolf Christof Dienst",
+    "Frank Böhnke"
+  ],
+  "industries": [
+    "Technology",
+    "Digital Media",
+    "Life Sciences"
+  ],
+  "assets": 700000000
+}
+]
